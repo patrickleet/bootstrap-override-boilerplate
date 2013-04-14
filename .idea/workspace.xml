@@ -10,8 +10,8 @@
     <file path="/.gitignore" changelist="0dd719a1-3e45-4442-bfb1-efa482040d97" time="1365962752373" ignored="false" />
     <file path="/bootstrap.less" changelist="0dd719a1-3e45-4442-bfb1-efa482040d97" time="1365963211214" ignored="false" />
     <file path="/Makefile" changelist="0dd719a1-3e45-4442-bfb1-efa482040d97" time="1365964291561" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="0dd719a1-3e45-4442-bfb1-efa482040d97" time="1365976443306" ignored="false" />
-    <file path="/README.md" changelist="0dd719a1-3e45-4442-bfb1-efa482040d97" time="1365975932758" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="0dd719a1-3e45-4442-bfb1-efa482040d97" time="1365976847075" ignored="false" />
+    <file path="/README.md" changelist="0dd719a1-3e45-4442-bfb1-efa482040d97" time="1365976839937" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +153,7 @@
           <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/README.md">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="17" column="10" selection-start="515" selection-end="515" vertical-scroll-proportion="0.23127463">
+                <state line="97" column="79" selection-start="3417" selection-end="3417" vertical-scroll-proportion="0.9605782">
                   <folding />
                 </state>
               </provider>
@@ -335,6 +335,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap-override-boilerplate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap-override-boilerplate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -561,7 +579,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="10" selection-start="515" selection-end="515" vertical-scroll-proportion="0.23127463">
+        <state line="97" column="79" selection-start="3417" selection-end="3417" vertical-scroll-proportion="0.9605782">
           <folding />
         </state>
       </provider>

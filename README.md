@@ -8,8 +8,9 @@ How to Use
 ==========
 
 1. Bootstrap Submodule
-2. Bootstrap Overrides
+2. Bootstrap Overrides (optional reading)
 3. Making Customizations
+4. Building
 
 1) Bootstrap Submodule
 ----------------------
@@ -25,8 +26,8 @@ tl;dr;:
     git submodule init
     git submodule update
 
-2) Bootstrap-Overrides
-----------------------
+2) Bootstrap-Overrides (optional reading)
+-----------------------------------------
 
 The purpose of this boilerplate is to make your own customizations to bootstrap without touching the core.
 
@@ -41,13 +42,13 @@ These are the techniques I use to do so. The process to get to this point is the
 
 3. Copy ```Makefile```
 
-Next we need to modify a few things in our ```bootstrap-overrides``` to get our build process to work using our overrides.
+Next I modified a few things in ```bootstrap-overrides``` to get our build process to work using our overrides.
 
 1. Modify ```bootstrap.less```, and ```responsive.less``` to import from the bootstrap submodule for everything except ```variables.less```
 
 2. Add a variable called ```BOOTSTRAP_DIR``` to the ```Makefile```
 
-       BOOTSTRAP_DIR = ../bootstrap
+       ```BOOTSTRAP_DIR = ../bootstrap```
 
 3. Prefix all referenced dirs in the build and test section with ```${BOOTSTRAP_DIR}/```
 
@@ -81,4 +82,17 @@ Next we need to modify a few things in our ```bootstrap-overrides``` to get our 
 
 4. Write less to override table styles in ```tables-overrides.less```
 
+4) Building
+-----------
 
+Once you've made changes it's easy to build and see your changes applied against the bootstrap docs.
+
+1. First start by changing to the bootstrap-overrides dir
+
+    ```cd bootstrap-overrides```
+
+2. ```npm install```
+
+3. ```make```
+
+Now you can open ```bootstrap/docs/index.html``` and see your live style guide.
