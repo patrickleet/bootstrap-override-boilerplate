@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0dd719a1-3e45-4442-bfb1-efa482040d97" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap-overrides/less/bootstrap.less" afterPath="$PROJECT_DIR$/bootstrap-overrides/less/bootstrap.less" />
     </list>
     <ignored path="bootstrap-override-boilerplate.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="0dd719a1-3e45-4442-bfb1-efa482040d97" time="1365962253258" ignored="false" />
     <file path="/.gitignore" changelist="0dd719a1-3e45-4442-bfb1-efa482040d97" time="1365962752373" ignored="false" />
+    <file path="/bootstrap.less" changelist="0dd719a1-3e45-4442-bfb1-efa482040d97" time="1365963211214" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="0dd719a1-3e45-4442-bfb1-efa482040d97" time="1365963339255" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,10 +70,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.less" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bootstrap-overrides/less/bootstrap.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="62" column="30" selection-start="2115" selection-end="2115" vertical-scroll-proportion="1.2015504">
               <folding />
             </state>
           </provider>
@@ -97,6 +107,7 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/bootstrap-overrides/less/bootstrap.less" />
       </list>
     </option>
   </component>
@@ -376,6 +387,13 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap-overrides/less/bootstrap.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="30" selection-start="2115" selection-end="2115" vertical-scroll-proportion="1.2015504">
           <folding />
         </state>
       </provider>
