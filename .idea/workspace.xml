@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0dd719a1-3e45-4442-bfb1-efa482040d97" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap-overrides/Makefile" afterPath="$PROJECT_DIR$/bootstrap-overrides/Makefile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap-overrides/package.json" afterPath="$PROJECT_DIR$/bootstrap-overrides/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="bootstrap-override-boilerplate.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -11,7 +10,8 @@
     <file path="/.gitignore" changelist="0dd719a1-3e45-4442-bfb1-efa482040d97" time="1365962752373" ignored="false" />
     <file path="/bootstrap.less" changelist="0dd719a1-3e45-4442-bfb1-efa482040d97" time="1365963211214" ignored="false" />
     <file path="/Makefile" changelist="0dd719a1-3e45-4442-bfb1-efa482040d97" time="1365964291561" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="0dd719a1-3e45-4442-bfb1-efa482040d97" time="1365965119521" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="0dd719a1-3e45-4442-bfb1-efa482040d97" time="1365975945725" ignored="false" />
+    <file path="/README.md" changelist="0dd719a1-3e45-4442-bfb1-efa482040d97" time="1365975932758" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,71 +71,97 @@
     <favorites_list name="bootstrap-override-boilerplate" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap.less" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bootstrap-overrides/less/bootstrap.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="9" selection-start="628" selection-end="649" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Makefile" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/bootstrap-overrides/Makefile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="22" selection-start="3002" selection-end="3002" vertical-scroll-proportion="0.41392905">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bootstrap-overrides/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="3" selection-start="721" selection-end="721" vertical-scroll-proportion="-18.75">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bootstrap/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="responsive.less" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bootstrap/less/responsive.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="0" selection-start="585" selection-end="1068" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="responsive.less" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bootstrap-overrides/less/responsive.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="30" selection-start="590" selection-end="590" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/.gitignore">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="bootstrap.less" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/bootstrap-overrides/less/bootstrap.less">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="26" column="0" selection-start="746" selection-end="789" vertical-scroll-proportion="0.36585367">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Makefile" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/bootstrap-overrides/Makefile">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="0" column="0" selection-start="0" selection-end="258" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/bootstrap/README.md">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/bootstrap-overrides/package.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="30" column="3" selection-start="721" selection-end="721" vertical-scroll-proportion="-18.75">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/bootstrap/package.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="responsive.less" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/bootstrap/less/responsive.less">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="24" column="0" selection-start="585" selection-end="1068" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="responsive.less" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/bootstrap-overrides/less/responsive.less">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="21" column="30" selection-start="590" selection-end="590" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/README.md">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="68" column="0" selection-start="2931" selection-end="2931" vertical-scroll-proportion="0.88173455">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -158,6 +184,7 @@
         <option value="$PROJECT_DIR$/bootstrap-overrides/less/responsive.less" />
         <option value="$PROJECT_DIR$/bootstrap-overrides/package.json" />
         <option value="$PROJECT_DIR$/bootstrap-overrides/Makefile" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -257,28 +284,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value=".bin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap-override-boilerplate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap-override-boilerplate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap-overrides" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="less" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -294,6 +299,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="bootstrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap-override-boilerplate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap-override-boilerplate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="less" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -494,13 +517,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap-overrides/less/bootstrap.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="9" selection-start="628" selection-end="649" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bootstrap-overrides/less/responsive.less">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="30" selection-start="590" selection-end="590" vertical-scroll-proportion="0.0">
@@ -522,9 +538,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/bootstrap-overrides/Makefile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="22" selection-start="3002" selection-end="3002" vertical-scroll-proportion="0.41392905">
+        <state line="0" column="0" selection-start="0" selection-end="258" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap-overrides/less/bootstrap.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="0" selection-start="746" selection-end="789" vertical-scroll-proportion="0.36585367">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="68" column="0" selection-start="2931" selection-end="2931" vertical-scroll-proportion="0.88173455">
           <folding />
         </state>
       </provider>
