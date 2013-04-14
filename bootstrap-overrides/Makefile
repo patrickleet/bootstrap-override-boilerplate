@@ -1,6 +1,7 @@
-BOOTSTRAP = ../bootstrap/docs/assets/css/bootstrap.css
+BOOTSTRAP_DIR = ../bootstrap
+BOOTSTRAP = ${BOOTSTRAP_DIR}/docs/assets/css/bootstrap.css
 BOOTSTRAP_LESS = ./less/bootstrap.less
-BOOTSTRAP_RESPONSIVE = ../bootstrap/docs/assets/css/bootstrap-responsive.css
+BOOTSTRAP_RESPONSIVE = ${BOOTSTRAP_DIR}/docs/assets/css/bootstrap-responsive.css
 BOOTSTRAP_RESPONSIVE_LESS = ./less/responsive.less
 DATE=$(shell date +%I:%M%p)
 CHECK=\033[32m✔\033[39m
@@ -15,22 +16,22 @@ build:
 	@echo "\n${HR}"
 	@echo "Building Bootstrap..."
 	@echo "${HR}\n"
-	@./node_modules/.bin/jshint js/*.js --config js/.jshintrc
-	@./node_modules/.bin/jshint js/tests/unit/*.js --config js/.jshintrc
+	@./node_modules/.bin/jshint ${BOOTSTRAP_DIR}/js/*.js --config ${BOOTSTRAP_DIR}/js/.jshintrc
+	@./node_modules/.bin/jshint ${BOOTSTRAP_DIR}/js/tests/unit/*.js --config ${BOOTSTRAP_DIR}/js/.jshintrc
 	@echo "Running JSHint on javascript...             ${CHECK} Done"
 	@./node_modules/.bin/recess --compile ${BOOTSTRAP_LESS} > ${BOOTSTRAP}
 	@./node_modules/.bin/recess --compile ${BOOTSTRAP_RESPONSIVE_LESS} > ${BOOTSTRAP_RESPONSIVE}
 	@echo "Compiling LESS with Recess...               ${CHECK} Done"
-	@node docs/build
-	@cp img/* docs/assets/img/
-	@cp js/*.js docs/assets/js/
-	@cp js/tests/vendor/jquery.js docs/assets/js/
+	@node ${BOOTSTRAP_DIR}/docs/build
+	@cp ${BOOTSTRAP_DIR}/img/* ${BOOTSTRAP_DIR}/docs/assets/img/
+	@cp ${BOOTSTRAP_DIR}/js/*.js ${BOOTSTRAP_DIR}/docs/assets/js/
+	@cp ${BOOTSTRAP_DIR}/js/tests/vendor/jquery.js ${BOOTSTRAP_DIR}/docs/assets/js/
 	@echo "Compiling documentation...                  ${CHECK} Done"
-	@cat js/bootstrap-transition.js js/bootstrap-alert.js js/bootstrap-button.js js/bootstrap-carousel.js js/bootstrap-collapse.js js/bootstrap-dropdown.js js/bootstrap-modal.js js/bootstrap-tooltip.js js/bootstrap-popover.js js/bootstrap-scrollspy.js js/bootstrap-tab.js js/bootstrap-typeahead.js js/bootstrap-affix.js > docs/assets/js/bootstrap.js
-	@./node_modules/.bin/uglifyjs -nc docs/assets/js/bootstrap.js > docs/assets/js/bootstrap.min.tmp.js
-	@echo "/**\n* Bootstrap.js v2.3.1 by @fat & @mdo\n* Copyright 2012 Twitter, Inc.\n* http://www.apache.org/licenses/LICENSE-2.0.txt\n*/" > docs/assets/js/copyright.js
-	@cat docs/assets/js/copyright.js docs/assets/js/bootstrap.min.tmp.js > docs/assets/js/bootstrap.min.js
-	@rm docs/assets/js/copyright.js docs/assets/js/bootstrap.min.tmp.js
+	@cat ${BOOTSTRAP_DIR}/js/bootstrap-transition.js ${BOOTSTRAP_DIR}/js/bootstrap-alert.js ${BOOTSTRAP_DIR}/js/bootstrap-button.js ${BOOTSTRAP_DIR}/js/bootstrap-carousel.js ${BOOTSTRAP_DIR}/js/bootstrap-collapse.js ${BOOTSTRAP_DIR}/js/bootstrap-dropdown.js ${BOOTSTRAP_DIR}/js/bootstrap-modal.js ${BOOTSTRAP_DIR}/js/bootstrap-tooltip.js ${BOOTSTRAP_DIR}/js/bootstrap-popover.js ${BOOTSTRAP_DIR}/js/bootstrap-scrollspy.js ${BOOTSTRAP_DIR}/js/bootstrap-tab.js ${BOOTSTRAP_DIR}/js/bootstrap-typeahead.js ${BOOTSTRAP_DIR}/js/bootstrap-affix.js > ${BOOTSTRAP_DIR}/docs/assets/js/bootstrap.js
+	@./node_modules/.bin/uglifyjs -nc ${BOOTSTRAP_DIR}/docs/assets/js/bootstrap.js > ${BOOTSTRAP_DIR}/docs/assets/js/bootstrap.min.tmp.js
+	@echo "/**\n* Bootstrap.js v2.3.1 by @fat & @mdo\n* Copyright 2012 Twitter, Inc.\n* http://www.apache.org/licenses/LICENSE-2.0.txt\n*/" > ${BOOTSTRAP_DIR}/docs/assets/js/copyright.js
+	@cat ${BOOTSTRAP_DIR}/docs/assets/js/copyright.js ${BOOTSTRAP_DIR}/docs/assets/js/bootstrap.min.tmp.js > ${BOOTSTRAP_DIR}/docs/assets/js/bootstrap.min.js
+	@rm ${BOOTSTRAP_DIR}/docs/assets/js/copyright.js ${BOOTSTRAP_DIR}/docs/assets/js/bootstrap.min.tmp.js
 	@echo "Compiling and minifying javascript...       ${CHECK} Done"
 	@echo "\n${HR}"
 	@echo "Bootstrap successfully built at ${DATE}."
@@ -43,12 +44,12 @@ build:
 #
 
 test:
-	./node_modules/.bin/jshint js/*.js --config js/.jshintrc
-	./node_modules/.bin/jshint js/tests/unit/*.js --config js/.jshintrc
-	node js/tests/server.js &
-	phantomjs js/tests/phantom.js "http://localhost:3000/js/tests"
-	kill -9 `cat js/tests/pid.txt`
-	rm js/tests/pid.txt
+	./node_modules/.bin/jshint ${BOOTSTRAP_DIR}/js/*.js --config ${BOOTSTRAP_DIR}/js/.jshintrc
+	./node_modules/.bin/jshint ${BOOTSTRAP_DIR}/js/tests/unit/*.js --config ${BOOTSTRAP_DIR}/js/.jshintrc
+	node ${BOOTSTRAP_DIR}/js/tests/server.js &
+	./node_modules/.bin/phantomjs ${BOOTSTRAP_DIR}/js/tests/phantom.js "http://localhost:3000/js/tests"
+	kill -9 `cat ${BOOTSTRAP_DIR}/js/tests/pid.txt`
+	rm ${BOOTSTRAP_DIR}/js/tests/pid.txt
 
 #
 # CLEANS THE ROOT DIRECTORY OF PRIOR BUILDS
