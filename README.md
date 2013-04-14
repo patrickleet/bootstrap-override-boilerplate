@@ -32,7 +32,7 @@ Making Customizations
 
 1. Find the code you want to override, for example, if you want to make all tables have a solid red border, you would want to override ```tables.less```
 
-2. Create ```theme-name/less/tables-overrides.less```
+2. Create ```theme-template/less/tables-overrides.less```
 
 3. Import your new file directly after the corresponding import
 
@@ -46,9 +46,9 @@ Building
 
 Once you've made changes it's easy to build and see your changes applied against the bootstrap docs.
 
-1. First start by changing to the ```theme-name``` dir
+1. First start by changing to the ```theme-template``` dir
 
-    ```cd theme-name```
+    ```cd theme-template```
 
 2. Install all deps with ```npm install```
 3. Build with ```make```
@@ -67,7 +67,7 @@ The purpose of this boilerplate is to make your own customizations to bootstrap 
 
 These are the techniques I use to do so. The process to get to this point is the following:
 
-1. Copy everything to a mirrored directory structure of ```bootstrap``` named ```theme-name```.
+1. Copy everything to a mirrored directory structure of ```bootstrap``` named ```theme-template```.
 2. In ```less```, delete everything except ```bootstrap.less```, ```responsive.less```, and ```variables.less```.
 3. Modify ```bootstrap.less```, and ```responsive.less``` to import from the bootstrap submodule for everything except ```variables.less```
 4. Add some node_modules as dev dependencies, and reference them from script, like watchr, so they don't need to be installed globally.
