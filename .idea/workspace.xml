@@ -10,7 +10,7 @@
     <file path="/.gitignore" changelist="0dd719a1-3e45-4442-bfb1-efa482040d97" time="1365962752373" ignored="false" />
     <file path="/bootstrap.less" changelist="0dd719a1-3e45-4442-bfb1-efa482040d97" time="1365963211214" ignored="false" />
     <file path="/Makefile" changelist="0dd719a1-3e45-4442-bfb1-efa482040d97" time="1365964291561" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="0dd719a1-3e45-4442-bfb1-efa482040d97" time="1365976313340" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="0dd719a1-3e45-4442-bfb1-efa482040d97" time="1365976390742" ignored="false" />
     <file path="/README.md" changelist="0dd719a1-3e45-4442-bfb1-efa482040d97" time="1365975932758" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -153,7 +153,7 @@
           <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/README.md">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="77" column="3" selection-start="2857" selection-end="2946" vertical-scroll-proportion="0.80289096">
+                <state line="11" column="2" selection-start="309" selection-end="309" vertical-scroll-proportion="0.1130092">
                   <folding />
                 </state>
               </provider>
@@ -561,7 +561,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="3" selection-start="2857" selection-end="2946" vertical-scroll-proportion="0.80289096">
+        <state line="11" column="2" selection-start="309" selection-end="309" vertical-scroll-proportion="0.1130092">
           <folding />
         </state>
       </provider>

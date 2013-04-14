@@ -7,9 +7,9 @@ Allows for unobtrusive overriding of all bootstrap less files, docs, and a build
 How to Use
 ==========
 
-1) Bootstrap Submodule
-2) Bootstrap Overrides
-3) Making Customizations
+1. Bootstrap Submodule
+2. Bootstrap Overrides
+3. Making Customizations
 
 1) Bootstrap Submodule
 ----------------------
