@@ -14,12 +14,13 @@ How to Use
 1) Bootstrap Submodule
 ----------------------
 
-I've found it's optimal to use include bootstrap as a submodule to easily keep it up to date with the latest version of Twitter Bootstrap.
+I've found it's optimal to include bootstrap as a submodule to easily keep it up to date with the latest version of Twitter Bootstrap.
 
 Follow these instructions for cloning a project with submodules:
 [Cloning a Project with Submodules](http://git-scm.com/book/en/Git-Tools-Submodules#Cloning-a-Project-with-Submodules)
 
-tl;dr;
+tl;dr;:
+
     git clone <<git-url>>
     git submodule init
     git submodule update
