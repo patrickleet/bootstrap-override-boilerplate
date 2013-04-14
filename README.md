@@ -31,7 +31,7 @@ Making Customizations
 
 1. Find the code you want to override, for example, if you want to make all tables have a solid red border, you would want to override ```tables.less```
 
-2. Create ```bootstrap-overrides/less/tables-overrides.less```
+2. Create ```theme-name/less/tables-overrides.less```
 
 3. Import your new file directly after the corresponding import
 
@@ -45,9 +45,9 @@ Building
 
 Once you've made changes it's easy to build and see your changes applied against the bootstrap docs.
 
-1. First start by changing to the bootstrap-overrides dir
+1. First start by changing to the ```theme-name``` dir
 
-    ```cd bootstrap-overrides```
+    ```cd theme-name```
 
 2. Install all deps with ```npm install```
 3. Build with ```make```
@@ -66,44 +66,7 @@ The purpose of this boilerplate is to make your own customizations to bootstrap 
 
 These are the techniques I use to do so. The process to get to this point is the following:
 
-1. Copy ```bootstrap.less```, ```responsive.less```, and ```variables.less``` into a mirrored directory structure called ```bootstrap-overrides```.
-
-        - bootstrap-overrides
-          - less
-
-2. Copy ```package.json``` to ```bootstrap-overrides/```
-
-3. Copy ```Makefile```
-
-Next I modified a few things in ```bootstrap-overrides``` to get our build process to work using our overrides.
-
-1. Modify ```bootstrap.less```, and ```responsive.less``` to import from the bootstrap submodule for everything except ```variables.less```
-
-2. Add a variable called ```BOOTSTRAP_DIR``` to the ```Makefile```
-
-       ```BOOTSTRAP_DIR = ../bootstrap```
-
-3. Prefix all referenced dirs in the build and test section with ```${BOOTSTRAP_DIR}/```
-
-        build:
-          @echo "\n${HR}"
-          @echo "Building Bootstrap..."
-          @echo "${HR}\n"
-          @./node_modules/.bin/jshint ${BOOTSTRAP_DIR}/js/*.js --config ${BOOTSTRAP_DIR}/js/.jshintrc
-          @./node_modules/.bin/jshint ${BOOTSTRAP_DIR}/js/tests/unit/*.js --config ${BOOTSTRAP_DIR}/js/.jshintrc
-          etc..
-
-4. Update constant locations of ```BOOTSTRAP``` and ```BOOTSTRAP_RESPONSIVE``` to the ```BOOTSTRAP_DIR```
-
-        BOOTSTRAP_DIR = ../bootstrap
-        BOOTSTRAP = ${BOOTSTRAP_DIR}/docs/assets/css/bootstrap.css
-        BOOTSTRAP_LESS = ./less/bootstrap.less
-        BOOTSTRAP_RESPONSIVE = ${BOOTSTRAP_DIR}/docs/assets/css/bootstrap-responsive.css
-        BOOTSTRAP_RESPONSIVE_LESS = ./less/responsive.less
-
-5. Add some node_modules as dev dependencies, and reference them from script, like watchr
-
-TODO
-====
-
-1) Finish modifying makefile for all flags
+1. Copy everything to a mirrored directory structure of ```bootstrap``` named ```theme-name```.
+2. In ```less```, delete everything except ```bootstrap.less```, ```responsive.less```, and ```variables.less```.
+3. Modify ```bootstrap.less```, and ```responsive.less``` to import from the bootstrap submodule for everything except ```variables.less```
+4. Add some node_modules as dev dependencies, and reference them from script, like watchr, so they don't need to be installed globally.
