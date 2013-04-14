@@ -10,8 +10,8 @@
     <file path="/.gitignore" changelist="0dd719a1-3e45-4442-bfb1-efa482040d97" time="1365962752373" ignored="false" />
     <file path="/bootstrap.less" changelist="0dd719a1-3e45-4442-bfb1-efa482040d97" time="1365963211214" ignored="false" />
     <file path="/Makefile" changelist="0dd719a1-3e45-4442-bfb1-efa482040d97" time="1365977149778" ignored="false" />
-    <file path="/README.md" changelist="0dd719a1-3e45-4442-bfb1-efa482040d97" time="1365977583510" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="0dd719a1-3e45-4442-bfb1-efa482040d97" time="1365978257780" ignored="false" />
+    <file path="/README.md" changelist="0dd719a1-3e45-4442-bfb1-efa482040d97" time="1365978293486" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="0dd719a1-3e45-4442-bfb1-efa482040d97" time="1365978295624" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +162,7 @@
           <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/README.md">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="52" column="0" selection-start="1497" selection-end="1497" vertical-scroll-proportion="0.42655936">
+                <state line="52" column="14" selection-start="1533" selection-end="1533" vertical-scroll-proportion="0.42655936">
                   <folding />
                 </state>
               </provider>
@@ -596,7 +596,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="0" selection-start="1497" selection-end="1497" vertical-scroll-proportion="0.42655936">
+        <state line="52" column="14" selection-start="1533" selection-end="1533" vertical-scroll-proportion="0.42655936">
           <folding />
         </state>
       </provider>

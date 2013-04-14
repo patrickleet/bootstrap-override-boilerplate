@@ -49,8 +49,8 @@ Once you've made changes it's easy to build and see your changes applied against
 
     ```cd bootstrap-overrides```
 
-2. ```npm install```
-3. ```make```
+2. Install all deps with ```npm install```
+3. Build with ```make```
 
 Now you can open ```bootstrap/docs/index.html``` and see your live style guide.
 
