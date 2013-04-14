@@ -2,7 +2,203 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0dd719a1-3e45-4442-bfb1-efa482040d97" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/img/example-sites/8020select.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/img/example-sites/adoptahydrant.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/ico/apple-touch-icon-114-precomposed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/ico/apple-touch-icon-144-precomposed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/ico/apple-touch-icon-57-precomposed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/ico/apple-touch-icon-72-precomposed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/img/bootstrap-docs-readme.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/img/examples/bootstrap-example-carousel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/img/examples/bootstrap-example-fluid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/img/examples/bootstrap-example-justified-nav.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/img/examples/bootstrap-example-marketing-narrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/img/examples/bootstrap-example-marketing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/img/examples/bootstrap-example-signin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/img/examples/bootstrap-example-starter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/img/examples/bootstrap-example-sticky-footer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/img/bootstrap-mdo-sfmoma-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/img/bootstrap-mdo-sfmoma-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/img/bootstrap-mdo-sfmoma-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/img/example-sites/breakingnews.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/img/examples/browser-icon-chrome.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/img/examples/browser-icon-firefox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/img/examples/browser-icon-safari.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/img/bs-docs-bootstrap-features.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/img/bs-docs-masthead-pattern.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/img/bs-docs-responsive-illustrations.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/img/bs-docs-twitter-github.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/ico/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/web/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/ico/favicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/img/example-sites/fleetio.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/img/example-sites/gathercontent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/img/glyphicons-halflings-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/img/glyphicons-halflings-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/img/glyphicons-halflings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/img/glyphicons-halflings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/img/grid-baseline-20px.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/img/example-sites/jshint.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/img/example-sites/kippt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/img/less-logo-large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/web/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/web/images/noise.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/img/responsive-illustrations.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/img/examples/slide-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/img/examples/slide-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/img/examples/slide-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/web/images/small-hogan-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/img/example-sites/soundready.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/web/images/stripes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/.git_ignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/.gitmodules" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/js/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/test/spec/Changes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/js/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/test/spec/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/test/spec/Rakefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/test/spec/TESTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/wrappers/amd.js.mustache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/js/application.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/base-css.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/templates/pages/base-css.mustache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/js/bootstrap-affix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/js/bootstrap-affix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/js/tests/unit/bootstrap-affix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/js/bootstrap-alert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/js/bootstrap-alert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/js/tests/unit/bootstrap-alert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/js/bootstrap-button.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/js/bootstrap-button.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/js/tests/unit/bootstrap-button.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/js/bootstrap-carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/js/bootstrap-carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/js/tests/unit/bootstrap-carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/js/bootstrap-collapse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/js/bootstrap-collapse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/js/tests/unit/bootstrap-collapse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/js/bootstrap-dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/js/bootstrap-dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/js/tests/unit/bootstrap-dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/js/bootstrap-modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/js/bootstrap-modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/js/tests/unit/bootstrap-modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/js/tests/unit/bootstrap-phantom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/js/bootstrap-popover.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/js/bootstrap-popover.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/js/tests/unit/bootstrap-popover.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/css/bootstrap-responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/js/bootstrap-scrollspy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/js/bootstrap-scrollspy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/js/tests/unit/bootstrap-scrollspy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/js/bootstrap-tab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/js/bootstrap-tab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/js/tests/unit/bootstrap-tab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/js/bootstrap-tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/js/bootstrap-tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/js/tests/unit/bootstrap-tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/js/bootstrap-transition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/js/bootstrap-transition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/js/tests/unit/bootstrap-transition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/js/bootstrap-typeahead.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/js/bootstrap-typeahead.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/js/tests/unit/bootstrap-typeahead.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/examples/carousel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/test/spec/specs/comments.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/test/spec/specs/comments.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/wrappers/common.js.mustache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/lib/compiler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/components.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/templates/pages/components.mustache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/customize.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/templates/pages/customize.mustache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/test/spec/specs/delimiters.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/test/spec/specs/delimiters.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/css/docs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/extend.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/templates/pages/extend.mustache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/examples/fluid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/getting-started.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/templates/pages/getting-started.mustache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/examples/hero.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/web/builds/1.0.5/hogan-1.0.5.amd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/web/builds/1.0.5/hogan-1.0.5.common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/web/builds/1.0.5/hogan-1.0.5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/web/builds/1.0.5/hogan-1.0.5.min.amd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/web/builds/1.0.5/hogan-1.0.5.min.common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/web/builds/1.0.5/hogan-1.0.5.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/web/builds/1.0.5/hogan-1.0.5.min.mustache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/web/builds/1.0.5/hogan-1.0.5.mustache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/lib/hogan.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/web/1.0.0/hogan.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/web/builds/1.0.0/hogan.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/web/builds/1.0.3/hogan.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/web/1.0.0/hogan.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/web/builds/1.0.0/hogan.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/web/builds/1.0.3/hogan.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/js/holder/holder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/js/html5shiv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/.bin/hulk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/bin/hulk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/web/index.html.mustache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/test/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/js/tests/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/test/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/templates/pages/index.mustache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/test/spec/specs/interpolation.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/test/spec/specs/interpolation.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/test/spec/specs/inverted.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/test/spec/specs/inverted.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/javascript.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/templates/pages/javascript.mustache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/js/tests/vendor/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/wrappers/js.mustache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/examples/justified-nav.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/web/stylesheets/layout.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/templates/layout.mustache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/test/html/list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/test/templates/list.mustache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/examples/marketing-narrow.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/wrappers/mustache.js.mustache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/test/mustache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/test/spec/specs/partials.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/test/spec/specs/partials.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/js/tests/phantom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/js/tests/pid.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/js/google-code-prettify/prettify.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/assets/js/google-code-prettify/prettify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/js/tests/vendor/qunit.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/js/tests/vendor/qunit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/tools/release.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/scaffolding.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/templates/pages/scaffolding.mustache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/test/spec/specs/sections.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/test/spec/specs/sections.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/js/tests/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/examples/signin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/web/stylesheets/skeleton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/test/spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/examples/starter-template.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/examples/sticky-footer-navbar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/examples/sticky-footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/web/builds/1.0.5/template-1.0.5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/web/builds/1.0.5/template-1.0.5.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/lib/template.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/tools/web_templates.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/test/spec/specs/~lambdas.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-overrides/docs/build/node_modules/hogan.js/test/spec/specs/~lambdas.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap-overrides/Makefile" afterPath="$PROJECT_DIR$/bootstrap-overrides/Makefile" />
     </list>
     <ignored path="bootstrap-override-boilerplate.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -11,7 +207,7 @@
     <file path="/bootstrap.less" changelist="0dd719a1-3e45-4442-bfb1-efa482040d97" time="1365963211214" ignored="false" />
     <file path="/Makefile" changelist="0dd719a1-3e45-4442-bfb1-efa482040d97" time="1365977149778" ignored="false" />
     <file path="/README.md" changelist="0dd719a1-3e45-4442-bfb1-efa482040d97" time="1365978293486" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="0dd719a1-3e45-4442-bfb1-efa482040d97" time="1365978295624" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="0dd719a1-3e45-4442-bfb1-efa482040d97" time="1365980256345" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,106 +267,73 @@
     <favorites_list name="bootstrap-override-boilerplate" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf>
-          <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/.gitignore">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="bootstrap.less" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/bootstrap-overrides/less/bootstrap.less">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="26" column="0" selection-start="746" selection-end="789" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Makefile" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/bootstrap-overrides/Makefile">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="123" column="22" selection-start="5232" selection-end="5232" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/bootstrap/README.md">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/bootstrap-overrides/package.json">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="3" column="4" selection-start="45" selection-end="45" vertical-scroll-proportion="-1.875">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/bootstrap-overrides/README.md">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="43" column="0" selection-start="1853" selection-end="1853" vertical-scroll-proportion="0.96230596">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/bootstrap/package.json">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="responsive.less" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/bootstrap/less/responsive.less">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="24" column="0" selection-start="585" selection-end="1068" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="responsive.less" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/bootstrap-overrides/less/responsive.less">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="21" column="30" selection-start="590" selection-end="590" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/README.md">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="52" column="14" selection-start="1533" selection-end="1533" vertical-scroll-proportion="0.42655936">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf>
+      <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bootstrap-overrides/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="4" selection-start="45" selection-end="45" vertical-scroll-proportion="-1.875">
+              <folding>
+                <marker date="1365977675000" expanded="true" signature="0:247" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Makefile" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bootstrap-overrides/Makefile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="125" column="68" selection-start="4559" selection-end="4559" vertical-scroll-proportion="3.7726357">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bootstrap/docs/build/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Makefile" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bootstrap/Makefile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="15" selection-start="0" selection-end="4559" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bootstrap-overrides/docs/build/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bootstrap-overrides/docs/build/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layout.mustache" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bootstrap-overrides/docs/templates/layout.mustache">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -191,10 +354,11 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/bootstrap-overrides/less/bootstrap.less" />
         <option value="$PROJECT_DIR$/bootstrap-overrides/less/responsive.less" />
-        <option value="$PROJECT_DIR$/bootstrap-overrides/Makefile" />
         <option value="$PROJECT_DIR$/bootstrap-overrides/package.json" />
         <option value="$PROJECT_DIR$/bootstrap-overrides/README.md" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/bootstrap/Makefile" />
+        <option value="$PROJECT_DIR$/bootstrap-overrides/Makefile" />
       </list>
     </option>
   </component>
@@ -276,24 +440,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap-override-boilerplate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap-override-boilerplate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap-overrides" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="less" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -309,42 +455,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="bootstrap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap-override-boilerplate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap-override-boilerplate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="less" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap-override-boilerplate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap-override-boilerplate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -449,14 +559,14 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32917705" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964131" sideWeight="0.6708229" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964131" sideWeight="0.6708229" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -552,37 +662,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap-overrides/less/bootstrap.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="0" selection-start="746" selection-end="789" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap-overrides/Makefile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="123" column="22" selection-start="5232" selection-end="5232" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bootstrap/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap-overrides/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="4" selection-start="45" selection-end="45" vertical-scroll-proportion="-1.875">
           <folding />
         </state>
       </provider>
@@ -594,9 +676,74 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap-overrides/less/bootstrap.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="0" selection-start="746" selection-end="789" vertical-scroll-proportion="0.54325956">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="52" column="14" selection-start="1533" selection-end="1533" vertical-scroll-proportion="0.42655936">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap-overrides/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="4" selection-start="45" selection-end="45" vertical-scroll-proportion="-1.875">
+          <folding>
+            <marker date="1365977675000" expanded="true" signature="0:247" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap-overrides/docs/templates/layout.mustache">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="15" selection-start="0" selection-end="4559" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap-overrides/docs/build/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap-overrides/docs/build/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/docs/build/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap-overrides/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="125" column="68" selection-start="4559" selection-end="4559" vertical-scroll-proportion="3.7726357">
           <folding />
         </state>
       </provider>
