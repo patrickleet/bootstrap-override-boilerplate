@@ -33,5 +33,6 @@ nbproject
 .svn
 .CVS
 .idea
+.idea/*
 node_modules
 dist
