@@ -22,6 +22,7 @@ Follow these instructions for cloning a project with submodules:
 tl;dr;:
 
     git clone <<git-url>>
+    cd <<dir>>
     git submodule init
     git submodule update
 
