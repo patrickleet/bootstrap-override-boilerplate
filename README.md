@@ -33,8 +33,8 @@ These are the techniques I use to do so. The process to get to this point is the
 
 1. Copy ```bootstrap.less```, ```responsive.less```, and ```variables.less``` into a mirrored directory structure called ```bootstrap-overrides```.
 
-    - bootstrap-overrides
-      - less
+        - bootstrap-overrides
+          - less
 
 2. Copy ```package.json``` to ```bootstrap-overrides/```
 
@@ -46,25 +46,25 @@ Next we need to modify a few things in our ```bootstrap-overrides``` to get our 
 
 2. Add a variable called ```BOOTSTRAP_DIR``` to the ```Makefile```
 
-   BOOTSTRAP_DIR = ../bootstrap
+       BOOTSTRAP_DIR = ../bootstrap
 
 3. Prefix all referenced dirs in the build and test section with ```${BOOTSTRAP_DIR}/```
 
-    build:
-    	@echo "\n${HR}"
-    	@echo "Building Bootstrap..."
-    	@echo "${HR}\n"
-    	@./node_modules/.bin/jshint ${BOOTSTRAP_DIR}/js/*.js --config ${BOOTSTRAP_DIR}/js/.jshintrc
-    	@./node_modules/.bin/jshint ${BOOTSTRAP_DIR}/js/tests/unit/*.js --config ${BOOTSTRAP_DIR}/js/.jshintrc
-    	etc..
+        build:
+          @echo "\n${HR}"
+          @echo "Building Bootstrap..."
+          @echo "${HR}\n"
+          @./node_modules/.bin/jshint ${BOOTSTRAP_DIR}/js/*.js --config ${BOOTSTRAP_DIR}/js/.jshintrc
+          @./node_modules/.bin/jshint ${BOOTSTRAP_DIR}/js/tests/unit/*.js --config ${BOOTSTRAP_DIR}/js/.jshintrc
+          etc..
 
 4. Update constant locations of ```BOOTSTRAP``` and ```BOOTSTRAP_RESPONSIVE``` to the ```BOOTSTRAP_DIR```
 
-    BOOTSTRAP_DIR = ../bootstrap
-    BOOTSTRAP = ${BOOTSTRAP_DIR}/docs/assets/css/bootstrap.css
-    BOOTSTRAP_LESS = ./less/bootstrap.less
-    BOOTSTRAP_RESPONSIVE = ${BOOTSTRAP_DIR}/docs/assets/css/bootstrap-responsive.css
-    BOOTSTRAP_RESPONSIVE_LESS = ./less/responsive.less
+        BOOTSTRAP_DIR = ../bootstrap
+        BOOTSTRAP = ${BOOTSTRAP_DIR}/docs/assets/css/bootstrap.css
+        BOOTSTRAP_LESS = ./less/bootstrap.less
+        BOOTSTRAP_RESPONSIVE = ${BOOTSTRAP_DIR}/docs/assets/css/bootstrap-responsive.css
+        BOOTSTRAP_RESPONSIVE_LESS = ./less/responsive.less
 
 3) Making Customizations
 ------------------------
@@ -75,8 +75,8 @@ Next we need to modify a few things in our ```bootstrap-overrides``` to get our 
 
 3. Import your new file directly after the corresponding import
 
-    @import "../../bootstrap/less/tables.less";
-    @import "tables-overrides.less";
+        @import "../../bootstrap/less/tables.less";
+        @import "tables-overrides.less";
 
 4. Write less to override table styles in ```tables-overrides.less```
 
