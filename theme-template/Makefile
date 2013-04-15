@@ -18,6 +18,8 @@ build:
 	@./node_modules/.bin/jshint js/*.js --config js/.jshintrc
 	@./node_modules/.bin/jshint js/tests/unit/*.js --config js/.jshintrc
 	@echo "Running JSHint on javascript...             ${CHECK} Done"
+	@cp ../Font-Awesome/font/* font/
+	@echo "Copy Font-Awesome fonts                     ${CHECK} Done"
 	@./node_modules/.bin/recess --compile ${BOOTSTRAP_LESS} > ${BOOTSTRAP}
 	@./node_modules/.bin/recess --compile ${BOOTSTRAP_RESPONSIVE_LESS} > ${BOOTSTRAP_RESPONSIVE}
 	@echo "Compiling LESS with Recess...               ${CHECK} Done"
