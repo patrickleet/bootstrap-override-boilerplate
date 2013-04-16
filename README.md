@@ -52,10 +52,10 @@ Once you've made changes it's easy to build and see your changes applied against
 
     ```cd theme-template```
 
-2. Install all deps with ```npm install```
+2. Install all deps with ```npm install``` if you haven't done so before (or if you get an error) (might have to install something globally)
 3. Build with ```make```
 
-Now you can open ```bootstrap/docs/index.html``` and see your live style guide.
+Now you can open ```theme-template/docs/index.html``` and see your live style guide.
 
 Optionally, you can watch files with ```make watch```
 
