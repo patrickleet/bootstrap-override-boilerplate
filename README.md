@@ -59,6 +59,14 @@ Now you can open ```bootstrap/docs/index.html``` and see your live style guide.
 
 Optionally, you can watch files with ```make watch```
 
+gh-pages
+--------
+
+Set up your git repository to follow the "grandmaster" pattern
+
+    cd theme-template
+    make gh-pages
+
 About
 =====
 
